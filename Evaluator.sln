@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27617.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluator", "Evaluator\Evaluator.csproj", "{E9DCE5AE-C83A-4A34-A635-F44DD8E0A858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9DCE5AE-C83A-4A34-A635-F44DD8E0A858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DCE5AE-C83A-4A34-A635-F44DD8E0A858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DCE5AE-C83A-4A34-A635-F44DD8E0A858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DCE5AE-C83A-4A34-A635-F44DD8E0A858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3283B95F-916B-4491-9BF8-7F9390933D8A}
+	EndGlobalSection
+EndGlobal
